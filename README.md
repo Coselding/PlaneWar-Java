@@ -3,3 +3,9 @@
 Java课程设计制作，在原来的MFC版本的基础上移植而成，同样完成了多关卡，多命，血条，魔法值，无敌模式，
 暂停，战机升级，护盾，血包，大招等功能，计时器使用Java的Timer实现，界面用JPanel实现，根据运行时动
 态定时在JPanel上绘制相应的图形界面达到刷新界面的目的。
+
+
+![image](https://github.com/Coselding/PlaneWar-MFC/raw/master/screenshot/3.png)
+
+
+![image](https://github.com/Coselding/PlaneWar-MFC/raw/master/screenshot/4.png)
