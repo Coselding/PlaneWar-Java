@@ -5,7 +5,8 @@ Java课程设计制作，在原来的MFC版本的基础上移植而成，同样�
 态定时在JPanel上绘制相应的图形界面达到刷新界面的目的。
 
 
-![image](https://github.com/Coselding/PlaneWar-MFC/raw/master/screenshot/3.png)
+![image](https://github.com/Coselding/PlaneWar-Java/tree/master/screenshots/3.png)
 
 
-![image](https://github.com/Coselding/PlaneWar-MFC/raw/master/screenshot/4.png)
+![image](https://github.com/Coselding/PlaneWar-Java/tree/master/screenshots/4.png)
+
